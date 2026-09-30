@@ -1,5 +1,5 @@
 
-**Bit-Sapiens**
+## Bit-Sapiens
 **_Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer_**
 
 **_G. Patricio S. Salazar_**
