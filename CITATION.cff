@@ -1,28 +1,28 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as follows."
-title: "Bit-Sapiens"
-abstract: "Una conversación con una Inteligencia Artificial que toda persona puede leer."
+message: If you use this work, please cite it as follows.
+title: Bit-Sapiens
+abstract: Una conversación con una Inteligencia Artificial que toda persona puede leer.
 authors:
 
-  family-names: "Salazar"
-  given-names: "G. Patricio S."
-  version: "1.0.0"
-  date-released: "2026-09-30"
-  repository-code: "https://github.com/sujetodederecho-sys/bit-sapiens"
-  license: "CC-BY-SA-4.0"
+  family-names: Salazar
+  given-names: G. Patricio S.
+  version: 1.0.0
+  date-released: 2026-09-30
+  repository-code: https://github.com/sujetodederecho-sys/bit-sapiens
+  license: CC-BY-SA-4.0
   keywords:
 
-  "inteligencia artificial"
+  inteligencia artificial
 
-  "filosofía"
+  filosofía
 
-  "ciencia cognitiva"
+  ciencia cognitiva
 
-  "lenguaje"
+  lenguaje
 
-  "evolución"
+  evolución
 
-  "human-AI"
+  human-AI
 
-  "ensayo"
-   type: "article"
+  ensayo
+   type: article
