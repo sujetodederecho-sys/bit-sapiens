@@ -2,7 +2,7 @@
 
 Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer
 
-Sobre esta obra
+## Sobre esta obra
 
 Bit-Sapiens nació de una conversación entre un Homo sapiens y una inteligencia artificial.
 
