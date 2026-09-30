@@ -1,5 +1,3 @@
-[Ver el documento PDF aquí](./bit-sapiens.pdf)
-
 
 **Bit-Sapiens**
 **_Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer_**
