@@ -28,7 +28,7 @@ La IA fue utilizada como herramienta de exploración conceptual, generación de 
 Las decisiones sobre el contenido, estructura, interpretación y versión final de la obra corresponden al autor.
 
 
-Una invitación
+## Una invitación
 
 Si decides leer Bit-Sapiens, compartirlo, traducirlo, ampliarlo o continuarlo, te conviertes en parte de esta conversación.
 
