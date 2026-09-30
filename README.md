@@ -18,19 +18,15 @@ Leer
 
 📄 Descargar PDF
 
-Sobre el proceso
 
-El autor utilizó ChatGPT (OpenAI) como herramienta de apoyo para la generación de ideas, exploración conceptual, revisión y edición de algunos fragmentos de esta obra.
+## Nota sobre el proceso de creación
 
-La autoría, selección, interpretación y responsabilidad final del contenido corresponden al autor.
+Bit-Sapiens fue desarrollado mediante un proceso de diálogo entre el autor y sistemas de inteligencia artificial.
 
-Licencia
+La IA fue utilizada como herramienta de exploración conceptual, generación de ideas, revisión y edición.
 
-Esta obra se distribuye bajo la licencia Creative Commons Atribución-Compartir Igual 4.0 Internacional (CC BY-SA 4.0).
+Las decisiones sobre el contenido, estructura, interpretación y versión final de la obra corresponden al autor.
 
-Se permite copiar, distribuir, adaptar y reutilizar esta obra, incluso con fines comerciales, siempre que se reconozca la autoría original.
-
-Toda obra derivada deberá publicarse bajo la misma licencia.
 
 Una invitación
 
@@ -39,6 +35,8 @@ Si decides leer Bit-Sapiens, compartirlo, traducirlo, ampliarlo o continuarlo, t
 Porque las ideas más importantes no pertenecen únicamente a quien las escribe; pertenecen también a quienes las mantienen vivas.
 
 Bit-Sapiens · 2026
+
+
 ## Ficha de la obra
 
 - **Título:** Bit-Sapiens
