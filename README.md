@@ -1,4 +1,6 @@
-# bit-sapiens: Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer
+# bit-sapiens
+
+Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer
 
 Sobre esta obra
 
