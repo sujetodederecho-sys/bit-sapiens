@@ -39,3 +39,13 @@ Si decides leer Bit-Sapiens, compartirlo, traducirlo, ampliarlo o continuarlo, t
 Porque las ideas más importantes no pertenecen únicamente a quien las escribe; pertenecen también a quienes las mantienen vivas.
 
 Bit-Sapiens · 2026
+## Ficha de la obra
+
+- **Título:** Bit-Sapiens
+- **Subtítulo:** Una conversación con una Inteligencia Artificial que toda persona puede leer
+- **Autor:** [G. Patricio S. Salazar]
+- **Año:** 2026
+- **Idioma:** Español
+- **Formato:** Markdown y PDF
+- **Versión:** 1.0
+
