@@ -1,5 +1,5 @@
-# bit-sapiens
-Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer
+# bit-sapiens Una conversación con una Inteligencia Artificial (IA) que toda persona puede leer
+
 G. Patricio S. Salazar · 2026
 
 Sobre esta obra
