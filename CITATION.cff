@@ -1,10 +1,8 @@
-cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-authors:
--family-names: "Salazar"
- given-names: "G. Patricio S."
- title: "Bit-Sapiens"
- abstract: "Una conversación con una Inteligencia Artificial que toda persona puede leer."
- version: 1.0.0
- date-released: 2026-09-30
- url: "https://github.com/sujetodederecho-sys/bit-sapiens"
+@software{Bit-sapiens,
+  author = {G, Patricio, Salazar},
+  month = {09},
+  title = {{Bit-Sapiens}},
+  url = {https://github.com/sujetodederecho-sys/bit-sapiens},
+  version = {1.0},
+  year = {2026}
+}
